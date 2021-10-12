@@ -248,3 +248,111 @@ git checkout develop
 git flow feature finish otrais 
 git commit -a
 git push
+cd konstruktors-/
+git status
+git push
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+git push
+git pulls33@ubuntu-s-2vcpu-4gb-fra1-01:~/konstruktors-$ git pull
+git pull s33@ubuntu-s-2vcpu-4gb-fra1-01:~/konstruktors-$ git pull
+git remote set-url origin git@github.com:KristapsCiguzis/konstruktors-.git
+git push
+git push --set-upstream origin master 
+git commit -m "pain"
+git push
+git status
+git branch 
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrOlN5GsP5eM1ggT5G6KG/TCE2XowEDzrvuheUkN5lzl2Pm8bvPqXnuRE9tlS+gpO3yekMqQ0E6NoebYwnqvOf+oYFGUESOEvGLgj0GeKVFQvHGcpzIM5h+t9OHcaR78KGggcaVsmiRNNRlFhNgt0IFeGvgUOOqhn3mphSH+R3g+gd4bbu/ZHqfetrrRBQKkvdG6sXpZthWWu5JWw/er0cQR6MsrUxWVGPlXYLhzEWumk+b5ouNpi4FVNK1uoAGzL+QJx2xHZ1ZThxpqoKC5S9hzNWscgjxUpMwHwYFpBA60fygaYkJMgAQMqyjRWYLvVj6BRlAwhYk+nGHv5wth3mcYSObFrVdNaCvY2e/6PapUiKdwD4hcppDhoG5zAGTN6bc4O/9XTDNoCYOcfqmAmm9cczbPHMLJhWCRIGOy5MZZ2gkpZkmXXjxz4zj4B6SOs2ebqtsjgZZrwtQHfmw5QACbuoZ1GBtebP1wNnl+5j1u0uoHbGvEkpc9K8sBIH5Wc= s33@ubuntu-s-2vcpu-4gb-fra1-0
+git push --set-upstream origin master 
+git pull
+git pull https://github.com/kasparsurbans/via-piudzpa-helper-files.git
+git push --set-upstream origin master 
+nano naked.py
+git pull https://github.com/kasparsurbans/via-piudzpa-helper-files.git
+git clone git@github.com:kasparsurbans/via-piudzpa-helper-files.git
+git status
+git clone git@github.com:kasparsurbans/via-piudzpa-helper-files.git
+cd via-piudzpa-helper-files/
+nano naked
+cd /
+cd 
+cd konstruktors-/
+cd via-piudzpa-helper-files/
+cd asteroids/
+nano naked.py 
+git push --set-upstream origin master 
+git status
+nano naked.py 
+git push --set-upstream origin master 
+git push
+git pull
+cd konstruktors-/
+cd ..
+git pull git@github.com:KristapsCiguzis/konstruktors-.git
+git checkout master 
+cd asteroids/
+python naked.py 
+python3 naked.py 
+python3 migrate_db.py
+nano  migrate_db.py
+python3 migrate_db.py
+nano  migrate_db.py
+nano config.ini
+nano  migrate_db.py
+python3 migrate_db.py
+Install mysql/mariadb server
+pip Install mysql/mariadb server
+pip install mysql/mariadb server
+pip install request
+python3 migrate_db.py
+python3 naked.py 
+nano migrate_db.py
+show database
+show database ;
+MariaDB
+sudo apt install mariaDB-server
+ls
+pip install requests
+pip install mysql-connector
+python3 migrate_db.py
+nano  migrate_db.py
+python3 migrate_db.py
+ls
+cd asteroids/
+nano  migrate_db.py
+cp log_migrate_db.yaml.dev log_migrate_db.yaml
+python3 migrate_db.py
+mysql -u asteroids_user_s33 -p
+git commit -m "DB fix"
+git add .
+git push 
+git commit -m "DB fix"
+git add .
+py
+git commit -m "DB fix"
+git branch master 
+git remote add origins git@github.com:KristapsCiguzis/konstruktors-.git
+git push
+git status
+git push --set-upstream origin master 
+ls
+python3 tweet_apocalypse.py 
+git branch master
+python3 migrate_db.py
+git checkout 
+cd ..
+git commit -m "DB fix"
+git add .
+git push --set-upstream origin master 
+git push
+git add .
+git push
+git remote add origins git@github.com:KristapsCiguzis/konstruktors-.git
+git push
+ls
+git status
+cd konstruktors-/
+git status
