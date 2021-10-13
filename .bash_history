@@ -356,3 +356,29 @@ ls
 git status
 cd konstruktors-/
 git status
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub
+git add .
+git commit -m "Praktiskais darbs 3"
+git remote add origin git@github.com:KristapsCiguzis/konstruktors-.git 
+git push --set-upstream origin master 
+git push
+cd asteroids/
+nano config.ini.template 
+nano config.ini
+cd ..
+git status
+git branch 
+git push
+git add .
+git add
+git add .
+git commit -m "Mans pirmais commits"
+git commit -m "db fix"
+git push --set-upstream origin master 
+git commit -a
+git push
+git add .
+git commit -a
+git add -A
+cd /
